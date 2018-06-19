@@ -15,7 +15,7 @@ Perhaps from this point of the talk, we will be building together a contact app.
     * Component lifecycle
     * Dealing with Props and how to handle them effectively for large-scale application.
 
-* Focusing more on building the app (30 mins)
+* Focusing more on building the app (50 mins)
     * How to handle lists in React Native? (ScrollView, ListView - deprecated, FlatList and Section List)
     * User Input
     * React Navigation (15 mins)

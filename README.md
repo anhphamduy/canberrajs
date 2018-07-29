@@ -30,15 +30,3 @@ Perhaps from this point of the talk, we will be building together a contact app.
             * Stack Navigator.
         * Composing Navigators
         * Styling navigator.
-
-Presenter Bio
-=============
-
-Anh Pham is a part of 2018 Gungahlin College Graduate Class. Since grade 9th, he has taken every opportunity to study IT, 
-from classwork to MOOC courses. In college, he has majored in Computer Science and Website Development. Within these topics, 
-he has gained many experiences in Machine Learning. In his spare time, he enjoys designing and developing web/mobile application 
-as he is a design person by trait.
-
-Currently, he is working together with one of the teachers from Gungahlin College to develop a roll call system for the school and
-the web/mobile part of the system is in React and React Native. He is going to present at Pycon which is the national Python Language 
-conference happening this year in August. He will be speaking about one of Machine Learning models - Recurrent Neural Networks.
